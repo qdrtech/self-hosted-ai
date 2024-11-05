@@ -3,6 +3,7 @@ volumes:
   postgres_storage:
   ollama_storage:
   qdrant_storage:
+  open-webui:
 
 networks:
   demo:
@@ -125,3 +126,12 @@ services:
     <<: *init-ollama
     depends_on:
       - ollama-gpu
+  
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    volumes:
+      - open-webui:/app/backend/data
+    ports:
+      - 3050:8080
+    restart: unless-stopped
