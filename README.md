@@ -10,9 +10,6 @@ Curated by <https://github.com/qdrtech>, it combines the self-hosted n8n
 platform with a curated list of compatible AI products and components to
 quickly get started with building self-hosted AI workflows.
 
-> [!TIP]
-> [Read the announcement](https://blog.n8n.io/self-hosted-ai/)
-
 ### What’s included
 
 ✅ [**Self-hosted n8n**](https://n8n.io/) - Low-code platform with over 400
@@ -26,6 +23,9 @@ store with an comprehensive API
 
 ✅ [**PostgreSQL**](https://www.postgresql.org/) -  Workhorse of the Data
 Engineering world, handles large amounts of data safely.
+
+✅ [**Open-WebUI**](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly 
+self-hosted WebUI designed to operate entirely offline.
 
 ### What you can build
 
