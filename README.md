@@ -2,9 +2,11 @@
 
 **Self-hosted AI Starter Kit** is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment.
 
-![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/self-hosted-ai-starter-kit/main/assets/n8n-demo.gif)
 
-Curated by <https://github.com/n8n-io>, it combines the self-hosted n8n
+![n8n-demo](https://github.com/user-attachments/assets/d102ca61-9ef5-4c61-b544-56cb2c82ee92)
+
+
+Curated by <https://github.com/qdrtech>, it combines the self-hosted n8n
 platform with a curated list of compatible AI products and components to
 quickly get started with building self-hosted AI workflows.
 
@@ -203,7 +205,7 @@ This project is licensed under the Apache License 2.0 - see the
 
 ## 💬 Support
 
-Join the conversation in the [n8n Forum](https://community.n8n.io/), where you
+Join the conversation in the [QDR's Tech Hub]([https://community.n8n.io/](https://discord.gg/BGSnZf4d)), where you
 can:
 
 - **Share Your Work**: Show off what you’ve built with n8n and inspire others
